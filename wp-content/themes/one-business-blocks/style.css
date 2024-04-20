@@ -245,10 +245,10 @@ input[type="submit"] {
     margin-block-end: 0;
 }
 .sidebar-box .wp-block-page-list  ul li{
-    list-style-image: url(/wp-content/themes/one-business-blocks/images/list1.png);
+    list-style-image: url(/mpf.github.io/wp-content/themes/one-business-blocks/images/list1.png);
 }
 .sidebar-box .wp-block-archives-list li ,.sidebar-box .wp-block-categories-list li,.sidebar-box .wp-block-page-list li{
-    list-style-image: url(/wp-content/themes/one-business-blocks/images/list.png);
+    list-style-image: url(/mpf.github.io/wp-content/themes/one-business-blocks/images/list.png);
 }
 .sidebar-box ul li a{
     text-decoration: none;
