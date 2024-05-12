@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/mpf.github.io/2024/03/15/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/mpf.github.io/2024/03/15/hello-world/</link>
+	<atom:link href="/2024/03/15/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/2024/03/15/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Fri, 15 Mar 2024 04:23:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/mpf.github.io/2024/03/15/hello-world/#comment-1</link>
+		<link>/2024/03/15/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 15 Mar 2024 04:23:24 +0000</pubDate>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="/mpf.github.io/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>/mpf.github.io/</link>
+	<atom:link href="/privacy-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 May 2024 00:48:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
